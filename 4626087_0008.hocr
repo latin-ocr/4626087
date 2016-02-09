@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4626087_0008.png"; bbox 0 0 2206 2901; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 410 1164 1718 1305">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 410 1164 1718 1305">
+     <span class='ocr_line' id='line_1_1' title="bbox 410 1164 1718 1213; baseline 0.001 -19"><span class='ocrx_word' id='word_1_1' title='bbox 410 1164 655 1198; x_wconf 70' lang='lat' dir='ltr'>DlsSERTATlo</span> <span class='ocrx_word' id='word_1_2' title='bbox 674 1166 723 1195; x_wconf 86' lang='grc' dir='ltr'>ΑΒ</span> <span class='ocrx_word' id='word_1_3' title='bbox 741 1166 974 1196; x_wconf 77' lang='lat' dir='ltr'>AMPLISSIMO</span> <span class='ocrx_word' id='word_1_4' title='bbox 994 1165 1319 1210; x_wconf 81' lang='lat' dir='ltr'>PHILOSOPHORVM</span> <span class='ocrx_word' id='word_1_5' title='bbox 1340 1165 1483 1197; x_wconf 80' lang='lat' dir='ltr'>ORDINE</span> <span class='ocrx_word' id='word_1_6' title='bbox 1501 1165 1718 1213; x_wconf 70' lang='lat' dir='ltr'>REFERENTE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 482 1219 1644 1251; baseline 0 -2"><span class='ocrx_word' id='word_1_7' title='bbox 482 1219 636 1250; x_wconf 79' lang='lat' dir='ltr'><strong>CAROLO</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 655 1220 903 1250; x_wconf 78' lang='lat' dir='ltr'>KALBFLEISCH</span> <span class='ocrx_word' id='word_1_9' title='bbox 918 1220 1095 1251; x_wconf 78' lang='lat' dir='ltr'>PROBATA</span> <span class='ocrx_word' id='word_1_10' title='bbox 1112 1221 1183 1250; x_wconf 86' lang='lat' dir='ltr'>EST</span> <span class='ocrx_word' id='word_1_11' title='bbox 1202 1220 1237 1249; x_wconf 91' lang='lat' dir='ltr'>D.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1248 1220 1292 1250; x_wconf 91' lang='grc'>22.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1306 1221 1443 1250; x_wconf 82' lang='grc' dir='ltr'><strong>ΜΕΝ515</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1455 1220 1644 1251; x_wconf 74' lang='lat' dir='ltr'>FEBRVARn</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 954 1274 1166 1305; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 954 1275 986 1305; x_wconf 86' lang='grc' dir='ltr'>Α.</span> <span class='ocrx_word' id='word_1_16' title='bbox 1007 1274 1166 1305; x_wconf 76' lang='grc' dir='ltr'><strong>ΜΟΜΧΙΙΙ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 582 2426 1534 2513">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 582 2426 1534 2513">
+     <span class='ocr_line' id='line_1_4' title="bbox 749 2426 1369 2457; baseline -0.002 -2"><span class='ocrx_word' id='word_1_17' title='bbox 749 2426 887 2456; x_wconf 86' lang='lat' dir='ltr'>TOTVM</span> <span class='ocrx_word' id='word_1_18' title='bbox 908 2426 1136 2457; x_wconf 82' lang='lat' dir='ltr'>OPVSCVLVM</span> <span class='ocrx_word' id='word_1_19' title='bbox 1154 2426 1369 2457; x_wconf 80' lang='lat' dir='ltr'>vENVMDAT</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 582 2478 1534 2513; baseline -0.002 -3"><span class='ocrx_word' id='word_1_20' title='bbox 582 2481 711 2511; x_wconf 81' lang='lat' dir='ltr'>ADOLP</span> <span class='ocrx_word' id='word_1_21' title='bbox 730 2481 930 2511; x_wconf 82' lang='lat' dir='ltr'>DIEKMANN</span> <span class='ocrx_word' id='word_1_22' title='bbox 949 2480 1304 2513; x_wconf 79' lang='lat' dir='ltr'>FRANCOFVRTENSlS</span> <span class='ocrx_word' id='word_1_23' title='bbox 1323 2478 1534 2510; x_wconf 80' lang='lat' dir='ltr'><strong>MOENANVS</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
